@@ -1,4 +1,3 @@
-
 ---
 title: "Mame Diarra Bousso Diouf"
 superuser: true
