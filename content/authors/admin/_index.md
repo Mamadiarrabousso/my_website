@@ -15,7 +15,6 @@ interests:
   - Machine learning/AI for flood & drought forecasting
   - Water quality modeling
 education:
-  courses:
     - course: " Civil Engineering"
       institution: "École Supérieure d’Électricité de Bâtiment et des Travaux Publics (ESEBAT), Senegal"
         url: "https://www.esebat.com/"
@@ -31,8 +30,8 @@ social:
     link: "https://github.com/Mamadiarrabousso"
   # add others if you like:
    - icon: linkedin
-  #   icon_pack: fab
-  #   link: "[https://www.linkedin.com/in/...](https://www.linkedin.com/public-profile/settings?trk=d_flagship3_profile_self_view_public_profile&lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base%3BjkgXzT3sSEK2fh1aWZQRQw%3D%3D)"
+     icon_pack: fab
+     link: "[https://www.linkedin.com/in/...](https://www.linkedin.com/public-profile/settings?trk=d_flagship3_profile_self_view_public_profile&lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base%3BjkgXzT3sSEK2fh1aWZQRQw%3D%3D)"
 languages:
   - "French (native)"
   - "English (advanced)"
